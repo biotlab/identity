@@ -17,7 +17,15 @@
 
 
 
-## bIoTlab - synergy of home and body
+## bIoTlab - Harmony of home & body
+
+
+The integration of home and body
+The idea of balance and working together
+A sense of wellness and optimization
+
+It's brief, memorable, and alludes to the synergistic relationship between the living space and the occupant's physiology in a bIoTlab concept.
+
 bIoTlab is a combination of biotechnology, IoT and smart home technologies to ensure personal well-being.
 "bIoTlab" combine "bio" (biology/biotechnology) and "IoT" (Internet of Things) for smarter living and better health.
 
