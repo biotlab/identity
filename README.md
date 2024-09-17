@@ -17,6 +17,8 @@
 
 
 
+![obraz](https://github.com/user-attachments/assets/262e79c0-7366-4195-a1ce-a619d9df5340)
+
 
 ![obraz](https://github.com/user-attachments/assets/8a54aa74-b4eb-4d03-a52a-8dbb5eeab1cb)
 
