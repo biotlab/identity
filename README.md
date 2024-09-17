@@ -17,6 +17,9 @@
 
 
 
+
+![obraz](https://github.com/user-attachments/assets/8a54aa74-b4eb-4d03-a52a-8dbb5eeab1cb)
+
 ## bIoTlab - Harmony of home & body
 
 
